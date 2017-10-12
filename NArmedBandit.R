@@ -1,5 +1,6 @@
 library(ggplot2)
 
+# Making a comment change to see if it commits to github
 TotExp <- 2000
 TotSteps <- 500
 eps <- 0
